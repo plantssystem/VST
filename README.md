@@ -40,7 +40,7 @@ Renoise(Linux)で動作を確認しています。
 ## Links
 
 - Web: https://plantssystem.github.io/KOSMOS2-SITE/
-- X: [@plantssystem](https://x.com/plantssystem)
+- X: [@plantssystem89]([https://x.com/plantssystem](https://x.com/plantssystem89)
 - GitHub: [plantssystem](https://github.com/plantssystem)
 
 ---
